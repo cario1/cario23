@@ -1,6 +1,6 @@
 const nsfwmenu = (prefix, pushname) => {
-    return `*Comandos para ver pornito 🔞*
-*NSFW ✅*
+    return `*Comandos para ver hentai🔞*
+*NSFW*
 
 - ${prefix}nsfwbobs
 - ${prefix}nsfwsidebobs
@@ -9,9 +9,9 @@ const nsfwmenu = (prefix, pushname) => {
 
 _El bot nesecita admin y tener activado los NSFW_\n _Digita_\n ${prefix}*nsfw 1*
 
-Algunas funciones fueron eliminas por errores en el servidor de la India
+Algunas funciones fueron eliminas por errores del servidor
 
-ву ѕнαη∂υу`
+bу 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ`
 
 }
 
