@@ -11,7 +11,7 @@ La toca 7w7
 
 _*Ojito escribe tal como esta*_
 
-ву ѕнαη∂υу`
+bу 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ`
 
 }
 
