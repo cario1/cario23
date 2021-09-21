@@ -1192,7 +1192,7 @@ case 'unir':
 if (!isGroup) return reply(mess.only.group)
 if (!isGroupAdmins) return reply(mess.only.admin)
 if (!isBotGroupAdmins) return reply(mess.only.Badmin)
-if (args.length < 1) return reply('Para emocion ✋\nPara unir a una persona debes escribir el numero sin (+)\n\nEjemplo: *unir +595×××××××××')
+if (args.length < 1) return reply('Para emocion ✋\nPara unir a una persona debes escribir el numero sin (+)\n\nEjemplo: *unir 595×××××××××')
 if (args[0].startsWith('+')) return reply(mess.error.unire)
 try {0
 num = `${args[0].replace(/ /g, '')}@s.whatsapp.net`
