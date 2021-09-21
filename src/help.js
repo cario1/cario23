@@ -1,18 +1,17 @@
 const help = (prefix) => {
 	return `
 
-⌜ *ѕнαηвσт ву ѕнαη∂υу* ⌟  
+⌜ *𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ ву 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ* ⌟  
 
 ◉ *INFORMACION*
    ○ Comando: ⌜ ${prefix} ⌟
-   ○ Creador: ѕнαη∂υу™ 
-   ○ Como instalar el bot: https://www.youtube.com/watch?v=2LQSzEbpJ-M
-   ○ Instagram: https://www.instagram.com/thepavos
+   ○ Creador: 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 
+   ○ Instagram: https://instagram.com/franx_xiscox?utm_medium=copy_link
 
 ◉ *PARA USAR EL BOT*
 Registrate con el comando ${prefix}daftar y tu nombre
 
-◉ *NUEVOS COMANDOS*
+◉ *COMANDOS*
 ○ ${prefix}banmenu
 Banear a personas el uso del bot
 ○ ${prefix}levelmenu
@@ -24,7 +23,7 @@ Monas chinas
 ○ ${prefix}shantera
 Interactua con el bot
 
-◉ *NUEVOS MENUS*
+◉ *MENUS*
 ○ ${prefix}juegos
 Diviértete con tus amigos :)
 ○ ${prefix}desmenu
@@ -95,7 +94,7 @@ Comando de bienvenida solo grupos
 
 Para usar estas funciones el bot necesita admin
   
-◉ *NSWF* 
+◉ *NSFW* 
   ║
   ╚ ○ ${prefix}nsfwmenu
 
@@ -105,7 +104,7 @@ Para activar los NSFW coloque el siguiente comando ${prefix}nsfw 1 y para desact
 No te olvides de seguirme en instagram flaco ;)
 
 
-_*by shanduy*_
+_*by 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ*_
 
 
 ⌜ *ごきげんよう :)* ⌟ 
