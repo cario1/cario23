@@ -67,7 +67,7 @@ Comando de bienvenida solo grupos
 
 ◉ *GRUPOS*
   ║
-  ╠ ○ ${prefix}unir
+  ╠ ○ ${prefix}unir (Se va a soporte el bot si usan el comando)
   ╠ Unir a una persona al grupo
   ╠ ○ ${prefix}fgc
   ╠ Cambiar foto del grupo
