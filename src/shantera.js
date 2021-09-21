@@ -46,7 +46,7 @@ Enano
 
 _*Ojito escribe tal y como esta en el mensaje*_
 
-ву ѕнαη∂υу`
+by 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ`
 
 }
 
