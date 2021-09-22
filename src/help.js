@@ -1,12 +1,12 @@
 const help = (prefix) => {
 	return `
 
-⌜ *𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ ву 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ* ⌟  
+⌜ *𝕮𝖆𝖗𝖎𝖔𝖒𝖆𝖘𝖙𝖊𝖗 𝕭𝖔𝖙🦊🔱 ву 𝕮𝖆𝖗𝖎𝖔𝖒𝖆𝖘𝖙𝖊𝖗 𝕭𝖔𝖙🦊🔱* ⌟  
 
 ◉ *INFORMACION*
    ○ Comando: ⌜ ${prefix} ⌟
-   ○ Creador: 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ 
-   ○ Instagram: https://instagram.com/franx_xiscox?utm_medium=copy_link
+   ○ Creador: 𝕮𝖆𝖗𝖎𝖔𝖒𝖆𝖘𝖙𝖊𝖗 𝕭𝖔𝖙🦊🔱
+   ○ Instagram: https://instagram.com/cariositomaster
 
 ◉ *PARA USAR EL BOT*
 Registrate con el comando ${prefix}daftar y tu nombre
@@ -104,7 +104,7 @@ Para activar los NSFW coloque el siguiente comando ${prefix}nsfw 1 y para desact
 No te olvides de seguirme en instagram flaco ;)
 
 
-_*by 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ*_
+_*by 𝕮𝖆𝖗𝖎𝖔𝖒𝖆𝖘𝖙𝖊𝖗 𝕭𝖔𝖙🦊🔱*_
 
 
 ⌜ *ごきげんよう :)* ⌟ 
