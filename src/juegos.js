@@ -13,7 +13,7 @@ Prueba tu suerte en el medidor de fan de cuties 😱
 
 _*En futuras versiones colocare mas juegos :)*_
      
-_*by 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ*_
+_*by 𝕮𝖆𝖗𝖎𝖔𝖒𝖆𝖘𝖙𝖊𝖗 𝕭𝖔𝖙🦊🔱*_
 `
 
 }

@@ -70,7 +70,7 @@ ${prefix}antidiscord 0
 _Para activar estos comandos el bot necesita tener admin en el grupo y esta funcion solo la activan los admins del grupo_
 
 
-_*by 𝕭𝖔𝖙 𝕱𝖗𝖆𝖓 𝕾𝖙𝖆𝖓𝖑𝖊𝖞ツ*_
+_*by 𝕮𝖆𝖗𝖎𝖔𝖒𝖆𝖘𝖙𝖊𝖗 𝕭𝖔𝖙🦊🔱*_
 `
 
 }
